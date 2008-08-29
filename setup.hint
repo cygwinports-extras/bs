@@ -1,0 +1,10 @@
+category: Games
+requires: cygwin libncurses8
+sdesc: "Console Battleship game"
+ldesc: "The classic game of Battleships against the computer.
+Uses character-cell graphics with a visual point-and-shoot interface.
+If you're using an xterm the mouse will work."
+
+
+
+
