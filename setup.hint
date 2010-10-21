@@ -1,5 +1,5 @@
 category: Games
-requires: libncurses8
+requires: libncurses10
 sdesc: "Console Battleship game"
 ldesc: "The classic game of Battleships against the computer.
 Uses character-cell graphics with a visual point-and-shoot interface.
